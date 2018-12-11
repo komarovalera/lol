@@ -24,12 +24,24 @@
     <ClCompile Include="minus.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
+    <ClCompile Include="Plus.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
+    <ClCompile Include="ymnoz.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="del.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
     <ClInclude Include="minus.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="Plus.h">
+      <Filter>Файлы заголовков</Filter>
+    </ClInclude>
+    <ClInclude Include="ymnoz.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
