@@ -13,7 +13,7 @@ int main()
 	cin >> a;
 	cout << "Vvedite vtoroe chislo: ";
 	cin >> b;
-	cout << "vvdeite deystvie: " << endl;
+	cout << "vvdeite deystvie: 1-vuch, 2-del,... " << endl;
 	cin >> count;
 
 	switch (count)
@@ -21,12 +21,12 @@ int main()
 
 	case 1:
 	{
-		cout << minus(a, b) << endl;
+		cout << MySub(a, b) << endl;
 		break;
 	}
 	case 2:
 	{
-		cout << del(a, b) << endl;
+		cout << MyDiv(a, b) << endl;
 		break;
 	}
 	
