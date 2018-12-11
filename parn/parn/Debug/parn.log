@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\par\parn\parn\main.cpp(9): warning C4101: a: неиспользованная локальная переменная
+c:\par\parn\parn\main.cpp(9): warning C4101: b: неиспользованная локальная переменная
+  parn.vcxproj -> C:\par\parn\Debug\parn.exe
